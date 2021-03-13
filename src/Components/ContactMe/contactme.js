@@ -38,7 +38,7 @@ export default function contactme() {
     <div className="contact_div" id="contactme">
       <h1 className="section-title" style={{ color: "white" }}>
         <span className="text-black" style={{ textAlign: "center" }}>
-          Contact Me
+          Contact Meeee
         </span>
       </h1>
       <Segment inverted>
